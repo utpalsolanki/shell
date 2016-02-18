@@ -1,0 +1,15 @@
+Scripting started
+shell~:
+shell~:
+shell~:ping google.com -c 2
+PING google.com (65.199.32.119) 56(84) bytes of data.
+64 bytes from 119.32.199.65.philadelphia.google-ggc.verizon.com (65.199.32.119): icmp_seq=1 ttl=59 time=6.85 ms
+64 bytes from 119.32.199.65.philadelphia.google-ggc.verizon.com (65.199.32.119): icmp_seq=2 ttl=59 time=11.3 ms
+
+--- google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 6.857/9.118/11.379/2.261 ms
+shell~:
+shell~:
+shell~:
+shell~:
